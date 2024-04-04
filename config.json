@@ -1,0 +1,18 @@
+{
+    "project": {
+        "name": "GrowPlus",
+        "version": "0.01",
+        "developer": ["iHax", "iDems", "Enzo"]
+    },
+    "api": {
+        "otp": {
+            "discord": {
+                "webhook": "https://discordapp.com/api/webhooks/1225336088755830838/-8ChaM0jqwM3YrysIfG_cnd6IIQ9yLGxAv2LXvPBsepZZqwibgJ8Vxq47dBc3hrI-pm4"
+            },
+            "telegram": {
+                "token": "7001842956:AAHJNmn9CMEhFDS5-_OtBSoUQ_NQnY6lShU",
+                "channel": "-1002135875828"
+            }
+        }
+    }
+}
