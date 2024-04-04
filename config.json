@@ -16,6 +16,16 @@
         }
     },
     "assets": {
-        "logo": "assets/logo.png"
+        "logo": "https://cdn.discordapp.com/attachments/1224370715051163689/1225508684436607178/20240405_011251.jpg?ex=662162e7&is=660eede7&hm=0126fd6999825441f599a214d2d89366a0d2605316e4e62a97b7b89a238ae280&",
+        "icon": {
+            "announcement": "https://cdn.discordapp.com/attachments/1224370715051163689/1225511971684618321/20240405_012441.png?ex=662165f6&is=660ef0f6&hm=5e77c4de1969d1e6810a1b98ef79d03094457574a29edb30f990065576865748&",
+            "message": "https://cdn.discordapp.com/attachments/1224370715051163689/1225515742481612980/20240405_014053.png?ex=66216979&is=660ef479&hm=04a7be3fef666be8623d395e6e0d7e23b4f5b21cb0db74fa13cd180df0faafbe&",
+            "qr": "https://cdn.discordapp.com/attachments/1224370715051163689/1225525620750946354/20240405_022039.png?ex=662172ad&is=660efdad&hm=2f817fc923153084e04068e8a5c00790aae9af7aaa90b416cdf2cf70073b9c95&"
+        },
+        "emoji": {
+            "announcement": "<:__:1225512100529569823>",
+            "message": "<:__:1225515941975293953>",
+            "qr": "<:__:1225525731409264768>"
+        }
     }
 }
