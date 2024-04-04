@@ -14,5 +14,8 @@
                 "channel": "-1002135875828"
             }
         }
+    },
+    "assets": {
+        "logo": "assets/logo.png"
     }
 }
