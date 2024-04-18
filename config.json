@@ -20,12 +20,16 @@
         "icon": {
             "announcement": "https://cdn.discordapp.com/attachments/1224370715051163689/1225535146569109524/20240405_025758.png?ex=66217b8c&is=660f068c&hm=a25f22cd59c709513e5e174cb11243b1609e0247115983abe84bd4f8c13aaddf&",
             "message": "https://cdn.discordapp.com/attachments/1224370715051163689/1225533923279372299/20240405_025355.png?ex=66217a68&is=660f0568&hm=a8c281f40a20b3adceecf2f36beb5c8816721107c7a9be16bf65d639bb1f600e&",
-            "qr": "https://cdn.discordapp.com/attachments/1224370715051163689/1225532810954277054/20240405_024920.png?ex=6621795f&is=660f045f&hm=c36345430d58e43488cbf35eaf7a6c2f9122f151be4ddcc3679ec474aaf4ea3b&"
+            "qr": "https://cdn.discordapp.com/attachments/1224370715051163689/1225532810954277054/20240405_024920.png?ex=6621795f&is=660f045f&hm=c36345430d58e43488cbf35eaf7a6c2f9122f151be4ddcc3679ec474aaf4ea3b&",
+            "red_dot": "https://cdn.discordapp.com/attachments/1224370715051163689/1230523546560761976/1713449504344.png?ex=6633a15b&is=66212c5b&hm=f7b3fdb305e3809db0bc77dfc8e5b816291cea17ee1915c009b37862146b7835&",
+            "green_dot": "https://cdn.discordapp.com/attachments/1224370715051163689/1230523546329944135/1713450000879.png?ex=6633a15b&is=66212c5b&hm=38b0272b1ec6b2a59c1c1e3ae8765509f60f8d0a05014a8d3765ab7ddd9ae0f6&"
         },
         "emoji": {
             "announcement": "<:emoji_4:1225534050043953202>",
             "message": "<:emoji_4:1225534050043953202>",
-            "qr": "<:emoji_3:1225533019746599052>"
+            "qr": "<:emoji_3:1225533019746599052>",
+            "red_dot": "<:emoji_6:1230524383781716082>",
+            "green_dot": "<:emoji_5:1230524336281092178>"
         }
     }
 }
